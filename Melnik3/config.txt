@@ -1,0 +1,6 @@
+text.txt
+en
+file
+1000
+200
+10

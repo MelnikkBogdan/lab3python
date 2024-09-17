@@ -1,0 +1,4 @@
+I, Bohdan Ivanovych Melnyk, 4th year student, 2nd group of the Institute of Programming and Communication (IPZ).
+My academic career began three years ago, during which time I deepened my knowledge in information technology and programming.
+I have worked on projects such as developing a Telegram bot to manage a sports exercise database.
+This experience helped me develop my Python and project management skills.
